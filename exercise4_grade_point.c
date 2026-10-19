@@ -57,4 +57,5 @@ int main(void) {
 
     printf("Grade point: %.1f\n", points);
     return 0;
+    to
 }
